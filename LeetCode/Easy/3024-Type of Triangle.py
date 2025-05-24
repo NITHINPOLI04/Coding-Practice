@@ -1,4 +1,4 @@
-#LINk: https:https://leetcode.com/problems/type-of-triangle/
+#LINk: https://leetcode.com/problems/type-of-triangle/
 
 # LeetCode 3024. Single Number
 # Time: O(1), Space: O(1)
