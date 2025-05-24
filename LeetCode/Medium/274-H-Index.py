@@ -1,4 +1,4 @@
-#LINk: https://leetcode.com/problems/single-number/
+#LINk: https://leetcode.com/problems/h-index/
 
 # LeetCode 274. H-Index
 # Approach 1: Using Extra Variable h
