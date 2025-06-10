@@ -1,7 +1,6 @@
 #LINk: https://leetcode.com/problems/next-greater-element-i/
 
 # LeetCode 496. Next Greater Element I
-# Approach 1: Bit Manipulation (XOR)
 # Time: O(n), Space: O(n)
 
 class Solution:
