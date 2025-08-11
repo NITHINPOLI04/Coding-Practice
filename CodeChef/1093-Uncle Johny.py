@@ -1,5 +1,5 @@
 #Difficulty: 1093
-# Time: O(n), Space: O(1)
+# Time: O(nlogn), Space: O(n)
 
 def solve():
     n = int(input())
